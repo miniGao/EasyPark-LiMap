@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LiMap-ReservationAutoCancellation</string>
+    <string name="payment_confirmation">PAYMENT CONFIRMATION</string>
+    <string name="successfulPayment">The Payment Was Successful</string>
+    <string name="arrival">Time to Arrival:</string>
+    <string name="minutes">00:15:00</string>
+    <string name="arrived">I HAVE ARRIVED</string>
 </resources>

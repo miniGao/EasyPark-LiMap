@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/map_icon"
+        android:title="Map"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/nearestParkingLot"
+                android:title="Nearest Parking Lot" />
+            <item
+                android:id="@+id/oneHour"
+                android:title="1 Hour Fare" />
+
+            <item
+                android:id="@+id/sixHour"
+                android:title="6 Hour Fare" />
+
+            <item
+                android:id="@+id/twelveHour"
+                android:title="12 Hour Fare" />
+
+            <item
+                android:id="@+id/twentyfourHour"
+                android:title="24 Hour Fare" />
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/parkinghistory"
+        android:title="Parking History"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/paymentinfo"
+        android:title="Payment Info"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/feedback"
+        android:title="Feedback"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+</menu>
