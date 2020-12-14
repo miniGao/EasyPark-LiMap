@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985904355257",
+    "project_id": "limap-autocancelreservation",
+    "storage_bucket": "limap-autocancelreservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985904355257:android:a6ec6a4da66fb2a3070868",
+        "android_client_info": {
+          "package_name": "com.main.limap_reservationautocancellation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985904355257-a12vq8brnfg3oc1qv57iqf90dmvqcna0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySmgdUXDGHHxep7nYqVCXixAZmT-qkyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985904355257-a12vq8brnfg3oc1qv57iqf90dmvqcna0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
